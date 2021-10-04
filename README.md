@@ -13,7 +13,7 @@ Languages and Tools:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SajuLoom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sajuloom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sivaavanish-k-5b6899203/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__u.know.me______/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SajuLoom&show_icons=true)  .
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SajuLoom&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/SajuLoom)  
 
